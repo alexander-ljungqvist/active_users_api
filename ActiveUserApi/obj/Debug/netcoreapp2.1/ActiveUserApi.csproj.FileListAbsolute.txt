@@ -1,0 +1,14 @@
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/bin/Debug/netcoreapp2.1/ActiveUserApi.deps.json
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/bin/Debug/netcoreapp2.1/ActiveUserApi.runtimeconfig.json
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/bin/Debug/netcoreapp2.1/ActiveUserApi.runtimeconfig.dev.json
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/bin/Debug/netcoreapp2.1/ActiveUserApi.dll
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/bin/Debug/netcoreapp2.1/ActiveUserApi.pdb
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.csproj.CoreCompileInputs.cache
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.RazorAssemblyInfo.cache
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.RazorAssemblyInfo.cs
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.AssemblyInfoInputs.cache
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.AssemblyInfo.cs
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.RazorTargetAssemblyInfo.cache
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.dll
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.pdb
+/Users/alexanderljungqvist/Projects/ActiveUserApi/ActiveUserApi/obj/Debug/netcoreapp2.1/ActiveUserApi.csprojAssemblyReference.cache
